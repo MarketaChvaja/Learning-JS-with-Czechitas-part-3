@@ -1,0 +1,3 @@
+// Funkce
+
+// Události
